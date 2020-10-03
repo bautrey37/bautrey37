@@ -31,7 +31,9 @@ How to make web applications. FE using Vue and React Backend using NodeJS and Ja
 
 [![bautrey37's github stats](https://github-readme-stats.vercel.app/api?username=bautrey37&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Language Counts don't seem completely accurate, but w/e here it is...
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautrey37&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+<!--
 [![bautrey37's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bautrey37)](https://github.com/anuraghazra/github-readme-stats)
+-->
