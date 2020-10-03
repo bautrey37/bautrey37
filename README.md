@@ -34,6 +34,6 @@ How to make web applications. FE using Vue and React Backend using NodeJS and Ja
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautrey37&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--
+
 [![bautrey37's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bautrey37)](https://github.com/anuraghazra/github-readme-stats)
--->
+
