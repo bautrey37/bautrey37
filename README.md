@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Brandon Autrey! I am a student at the University of Tartu doing my Master's in Software Engineering. I am also working at Pipedrive. 
+
+### 🌱 I’m currently learning ...
+
+How to build games in Unity.
+
+How to build Mobile Applications for Android using Kotlin.
+
+How to make web applications. FE using Vue and React Backend using NodeJS and Java Spring Boot.
