@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **bautrey37/bautrey37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
+- 📈 Some stats ...
 -->
 
 My name is Brandon Autrey! I am a student at the University of Tartu doing my Master's in Software Engineering. I am also working at Pipedrive. 
 
-### 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 How to build games in Unity.
 
 How to build Mobile Applications for Android using Kotlin.
 
 How to make web applications. FE using Vue and React Backend using NodeJS and Java Spring Boot.
+
+## 📈 Some stats ...
+
+[![bautrey37's github stats](https://github-readme-stats.vercel.app/api?username=bautrey37&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+Language Counts don't seem completely accurate, but w/e here it is...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautrey37&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![bautrey37's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bautrey37)](https://github.com/anuraghazra/github-readme-stats)
