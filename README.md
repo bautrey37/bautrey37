@@ -25,7 +25,7 @@ How to build games in Unity.
 
 How to build Mobile Applications for Android using Kotlin.
 
-How to make web applications. FE using Vue and React Backend using NodeJS and Java Spring Boot.
+How to build Web Applications. FE using Vue and React. Backend using NodeJS and Java Spring Boot.
 
 ## 📈 Some stats ...
 
