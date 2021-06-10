@@ -17,15 +17,40 @@ Here are some ideas to get you started:
 - 📈 Some stats ...
 -->
 
-My name is Brandon Autrey! I am a student at the University of Tartu doing my Master's in Software Engineering. I am also working at Pipedrive. 
+My name is Brandon Autrey! I am about to finish my Master's in Software Engineering at the University of Tartu.
 
-## 🌱 I’m currently learning ...
+## 🔭 I am currently looking for a job in ...
 
-How to build games in Unity.
+Mid/Senior position in BE development.
+
+
+## 🌱 I'm want to continue to learn ...
+
+Building FE apps in React and VueJS.
+
+Building BE with NodeJS, Go, Rust, Kotlin, Typescript.
+
+DevOp skills in Docker and Kuberneters.
+
+
+## 🌱 In school, I've learned ...
+
+How to build games in Unity & C#.
 
 How to build Mobile Applications for Android using Kotlin.
 
 How to build Web Applications. FE using Vue and React. Backend using NodeJS and Java Spring Boot.
+
+How to write functional code in F#.
+
+
+
+## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
+
+- BE: Java, NodeJS, Python
+- FE: VueJS
+- DB: SQL, PySpark, PostgreSQL
+- DevOps: Docker
 
 ## 📈 Some stats ...
 
@@ -35,5 +60,5 @@ How to build Web Applications. FE using Vue and React. Backend using NodeJS and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautrey37&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![bautrey37's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bautrey37)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![bautrey37's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bautrey37)](https://github.com/anuraghazra/github-readme-stats) -->
 
