@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 My name is Brandon Autrey! I am about to finish my Master's in Software Engineering at the University of Tartu.
 
-## 🔭 I am currently looking for a job in ...
-
-Mid/Senior position in BE development.
-
-
 ## 🌱 I'm want to continue to learn ...
 
 Building FE apps in React and VueJS.
