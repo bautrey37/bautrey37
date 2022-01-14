@@ -43,8 +43,8 @@ How to write functional code in F#.
 ## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
 
 - BE: Elixir, Ruby, Java, NodeJS, Python
-- FE: VueJS, React
-- DB: SQL, PySpark, PostgreSQL
+- FE: React, VueJS
+- DB: PostgreSQL, SQL, PySpark
 - DevOps: Docker, Kubernetes
 
 ## 📈 Some stats ...
@@ -52,7 +52,7 @@ How to write functional code in F#.
 [![bautrey37's github stats](https://github-readme-stats.vercel.app/api?username=bautrey37&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautrey37&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautrey37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![bautrey37's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bautrey37)](https://github.com/anuraghazra/github-readme-stats) -->
