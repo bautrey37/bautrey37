@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - 📈 Some stats ...
 -->
 
-My name is Brandon Autrey! I just finished my Master's in Software Engineering at the University of Tartu. Now I work at Glia as a Software using Elixir and Ruby. 
+My name is Brandon Autrey! I have a Master's in Software Engineering at the University of Tartu. Now I work at Glia as a Software using Elixir and Ruby. 
 
 ## 🌱 I'm want to continue to learn ...
 
-Building FE apps in React and VueJS.
+Building FE apps in React.
 
-Building BE with NodeJS, Go, Rust, Kotlin, Typescript.
+Building BE with Elixir and Ruby.
 
 DevOp skills in Docker and Kuberneters.
 
@@ -43,7 +43,7 @@ How to write functional code in F#.
 ## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
 
 - BE: Elixir, Ruby, Java, NodeJS, Python
-- FE: React, VueJS
+- FE: React, Javascript
 - DB: PostgreSQL, SQL, PySpark
 - DevOps: Docker, Kubernetes
 
