@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📈 Some stats ...
 -->
 
-My name is Brandon Autrey! I currently work at Glia as a Software Engineer. I received my Master's in Software Engineering at the University of Tartu. 
+My name is Brandon Autrey! I currently work at Glia as a Software Engineer. Before that, I received my Master's in Software Engineering at the University of Tartu in Estonia. 
 
 ## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
 
@@ -26,12 +26,11 @@ My name is Brandon Autrey! I currently work at Glia as a Software Engineer. I re
 - DB: PostgreSQL, SQL, PySpark
 - DevOps: Kubernetes, Docker
 
-## 🌱 I'm want to continue to learn ...
+## 🌱 I'm currently learning ...
 
-Improve my DevOp skills in Docker, Helm, Terraform.
+Improving my DevOp skills in Kubernetes, Helm, Terraform. I'm currently taking the Kubernetes for Developers course from the Linux Foundation.
 
-Explore Phoenix LiveView to make some personal websites.
-
+Explore Phoenix LiveView to make some personal websites. LiveView seems so powerful, that it makes it possible for one developer to write a large multi-functional website. Version v1 just got released, which is very exciting. 
 
 ## 🌱 In school, I've learned ...
 
