@@ -23,24 +23,12 @@ My name is Brandon Autrey! I currently work at Glia as a Software Engineer. Befo
 
 - BE: Elixir (Phoenix), Ruby, Java, NodeJS, Python
 - FE: React, Javascript
-- DB: PostgreSQL, SQL, PySpark
+- DB: PostgreSQL, SQL, DynamoDB
 - DevOps: Kubernetes, Docker
 
-## 🌱 I'm currently learning ...
+## 🔭 What I'm currently working on ...
 
-Improving my DevOp skills in Kubernetes, Helm, Terraform. I'm currently taking the Kubernetes for Developers course from the Linux Foundation.
-
-Explore Phoenix LiveView to make some personal websites. LiveView seems so powerful, that it makes it possible for one developer to write a large multi-functional website. Version v1 just got released, which is very exciting. 
-
-## 🌱 In school, I've learned ...
-
-How to build games in Unity & C#.
-
-How to build Mobile Applications for Android using Kotlin and Flutter.
-
-How to build Web Applications. FE using Vue and React. Backend using NodeJS and Java Spring Boot.
-
-How to write functional code in F#.
+At work, I'm focusing mainly on Elixir and React, with a bit of legacy Ruby code. I help build AI related functionality into our platform. 
 
 
 ## 📈 Some stats ...
